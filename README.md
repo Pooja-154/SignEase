@@ -1,8 +1,8 @@
 # SignEase
 
-SignEase is an innovative platform designed to empower specially-abled individuals and their families by providing an accessible and efficient way to learn sign language. This web-based tool offers a structured four week curriculum covering basic gestures, alphabets, and conversational skills.
+SignEase is an innovative platform designed to empower specially-abled individuals and their families by providing an accessible and efficient way to learn sign language. This web-based tool offers a structured **four week curriculum** covering basic gestures, alphabets, and conversational skills.
 
-A key feature, SignGPT, leverages AI technology to convert textual inputs into sign language animations, enhancing interactivity and learning.
+A key feature, **SignGPT**, leverages AI technology to convert textual inputs into sign language animations, enhancing interactivity and learning.
 
 The project aims to bridge the communication gap for the hearing and speech-impaired community, making sign language learning engaging and accessible. The platform’s user-friendly design includes interactive videos, daily practice modules, and assessment features to track progress. By utilizing modern web development technologies, SignEase serves as a powerful tool to foster inclusivity and understanding in society.
 
